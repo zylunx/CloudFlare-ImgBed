@@ -4,7 +4,6 @@ node_modules
 /wrangler.toml
 .DS_Store
 
-
 *.sqlite
 *.sqlite-*
 
@@ -12,6 +11,3 @@ node_modules
 .vscode/
 .claude/
 .agents/
-
-.superpowers/*
-/test/*
